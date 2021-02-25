@@ -30,11 +30,11 @@ let firstName = "Jackie";
 let lastName = "Chan";
 ```
 
-- What is the value of: a + str?
-- What is the value of: a + str2?
-- What is the value of: a + isPresent?
-- What is the value of: a + firstName?
-- What is the value of: a + lastName?
+- What is the value of: a + str? 1111
+- What is the value of: a + str2? 11eleven
+- What is the value of: a + isPresent? 12
+- What is the value of: a + firstName? 11Jackie
+- What is the value of: a + lastName? 11Chan
 
 Use the code above to test and print the results.
 
@@ -51,14 +51,14 @@ let firstName = "Robin";
 let lastName = "Williams";
 ```
 
-- What is the value of: a == str?
-- What is the value of: a === str?
-- What is the value of: !isPresent?
-- What is the value of: (“eleven” == str2 && a >= str)?
-- What is the value of: (!isPresent || isPresent)?
-- What is the value of: 0 == false?
-- What is the value of: 0 === false?
-- What is the value of: 0 != false?
-- What is the value of 0 !== false?
+- What is the value of: a == str? True
+- What is the value of: a === str? False
+- What is the value of: !isPresent? True
+- What is the value of: (“eleven” == str2 && a >= str)? False
+- What is the value of: (!isPresent || isPresent)? True
+- What is the value of: 0 == false? Yes
+- What is the value of: 0 === false? No
+- What is the value of: 0 != false? Yes
+- What is the value of 0 !== false? Yes
 
 Use the code above to test and print the results.
